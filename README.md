@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Currently learning
+
+* Django
+* React.js
+* AWS with Terraform
+* Serverless Framework
+* Scrum
+* Agile
