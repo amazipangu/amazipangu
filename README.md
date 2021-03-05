@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 ### Currently learning
 
 * Django
-* React.js
-* AWS with Terraform
+* Vue.js
+* AWS
+* Terraform
 * Serverless Framework
 * Scrum
 * Agile
 * Management3.0
+* Product Management
