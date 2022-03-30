@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 ### Currently learning
 
-* Django
-* Vue.js
+* Python
+  * Django
+* Go
+* React.js
+* GCP
 * AWS
 * Terraform
 * Serverless Framework
